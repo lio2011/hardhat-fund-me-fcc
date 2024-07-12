@@ -1,6 +1,6 @@
 # Hardhat Fund Me
 
-### This is the frontend repository of fund-me application which works in coordination with it's backend [repository](https://github.com/lio2011/html-fund-me-fcc)
+### This is the backend repository of fund-me application which works in coordination with it's frontend [repository](https://github.com/lio2011/html-fund-me-fcc)
 
 *This repo works with Sepolia Testnet.*
 
