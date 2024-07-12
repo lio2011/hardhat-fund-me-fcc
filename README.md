@@ -1,5 +1,7 @@
 # Hardhat Fund Me
 
+### This is the frontend repository of fund-me application which works in coordination with it's backend [repository](https://github.com/lio2011/html-fund-me-fcc)
+
 *This repo works with Sepolia Testnet.*
 
 I made this project with the help of a section of the Javascript Blockchain/Smart Contract FreeCodeCamp Course.
