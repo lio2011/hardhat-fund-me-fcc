@@ -23,7 +23,7 @@ I made this project with the help of a section of the Javascript Blockchain/Smar
 ## Quickstart
 
 ```
-git clone https://github.com/PatrickAlphaC/hardhat-fund-me-fcc
+git clone https://github.com/lio2011/hardhat-fund-me-fcc.git
 cd hardhat-fund-me-fcc
 yarn
 ```
